@@ -65,7 +65,7 @@ menu:
   archives: /archives/ || archive
   # schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
-  commonweal: /404.html || heartbeat
+  commonweal: /404.html  || heartbeat
 
 # Enable/Disable menu icons.
 menu_icons:
